@@ -1,8 +1,7 @@
 ### Welcome
 
 ### The Basis
-Free software is a matter of liberty, not price. To understand the concept, you should think of 'free' as in 'free speech'.
-
+Not a hacker, just a curious mind who loves to understand systems. Learning security by breaking it (legally).
 ### Connect's
 - [LinkedIn](https://www.linkedin.com/feed/)
 - [Twitter](https://x.com/megi00044594903)
@@ -13,5 +12,5 @@ Free software is a matter of liberty, not price. To understand the concept, you 
 ### SUP DADDY!!
 
 <img src="<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>" width="300"/>
-
+<img src="https://media.giphy.com/media/3o6Ztn1W8i3l8L6d7Tq/giphy.gif" width="300"/>
 </div>
