@@ -11,6 +11,6 @@ Not a hacker, just a curious mind who loves to understand systems. Learning secu
 
 ### SUP DADDY!!
 
-https://tenor.com/view/laptop-hacking-hacker-cat-gif-5423768830271062600
+!https://tenor.com/view/laptop-hacking-hacker-cat-gif-5423768830271062600
 
 </div>
