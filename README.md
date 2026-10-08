@@ -11,6 +11,6 @@ Not a hacker, just a curious mind who loves to understand systems. Learning secu
 
 ### SUP DADDY!!
 
-<img src="https://media.tenor.com/2uyENRuvV6EAAAAC/goku.gif" width="400"/>
+<img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2c1448b5c.gif" width="500"/>
 
 </div>
