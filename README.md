@@ -6,7 +6,7 @@ Not a hacker, just a curious mind who loves to understand systems. Learning secu
 - [LinkedIn](https://www.linkedin.com/feed/)
 - [Twitter](https://x.com/megi00044594903)
 - [THM](https://tryhackme.com/p/EMPTY67)
-
+- [Meduim](https://medium.com/@Noneny)
 <div align="center">
 
 ### SUP DADDY!!
