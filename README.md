@@ -11,6 +11,6 @@ Not a hacker, just a curious mind who loves to understand systems. Learning secu
 
 ### SUP DADDY!!
 
-<img src="<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>" width="300"/>
-<img src="https://media.giphy.com/media/3o6Ztn1W8i3l8L6d7Tq/giphy.gif" width="300"/>
+src="<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>"
+
 </div>
