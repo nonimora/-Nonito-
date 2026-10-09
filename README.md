@@ -1,7 +1,7 @@
-### Welcome
+### What Are u doing here !!
 
-### The Basis
-Not a hacker, just a curious mind who loves to understand systems. Learning security by breaking it (legally).
+### if u're curious abt me | try "Rot13" ;
+Abg n unpxre, whfg n phevbhf zvaq jub ybirf gb haqrefgnaq flfgrzf. Yrneavat frphevgl ol oernxvat vg (yrtnyyl).
 ### Connect's
 - [LinkedIn](https://www.linkedin.com/feed/)
 - [Twitter](https://x.com/megi00044594903)
